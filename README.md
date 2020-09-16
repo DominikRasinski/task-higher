@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Instalation](#instalation)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -31,6 +32,13 @@ Extentions:
   * JavaScript (ES6) code snippets - charalampos karypidis
   * Live Server - Ritwick Dey
   * Material Icon Theme - Philipp Kief
+
+## Instalation
+
+To install this application 'locally', you just need to download a folder with a name "task-higher-master.zip" and run the file index.html in the folder "task-higher-master".
+
+_Before the installation could generate errors because I didn't test it locally but on a liveserver, thus the application didn't promt any errors
+I didn't need to correct the attached files which means that I didn't need to use 'https:' in jquery external files._
   
 ## Status
 Project is: _finished_
